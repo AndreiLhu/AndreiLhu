@@ -2,6 +2,7 @@
 
 - 🔭 I’m taking part at the Wild Code School Web development course
 - 👯 I’m looking to collaborate on small Javascript projects.
+- 🌱 I’m currently learning TypeScript and Next.js
 
 ### ✅ My Skills
 
