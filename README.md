@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m taking part at the Wild Code School Web development course
+- 🔭 I am a junior full stack developer, with a passion for building web and mobile applications.
 - 👯 I’m looking to collaborate on small Javascript projects.
-- 🌱 I’m currently learning TypeScript and Next.js
+- 🌱 I’m currently learning TypeScript
 
 ### ✅ My Skills
 
